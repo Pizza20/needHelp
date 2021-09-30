@@ -4,4 +4,4 @@ What do i do
 
 https://gbpzjd.mimo.run/index.html
 Here is the link to the website
-And I put the code in the code area
+And I put the code in the view code area
